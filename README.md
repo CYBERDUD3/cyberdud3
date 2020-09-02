@@ -16,6 +16,19 @@ I see programming as art. Code is expression. It needs to have clarity, purpose,
 - 💬 Ask me about anything [here](https://github.com/cyberdud3/cyberdud3/issues)
 
 <details open>
+<summary>🤝 <b>I'm Proficient with</b></summary>
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">]
+[<img src="">]
+[<img src="">]
+
+</p>
+
+</details>
+
+<details open>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
@@ -42,7 +55,7 @@ I see programming as art. Code is expression. It needs to have clarity, purpose,
 </details>
 
 <details open> 
-    <summary><b>Featured Repos</b></summary>
+    <summary><b>My Featured Repos</b></summary>
         <p align = "center">
         <a href = "https://github.com/cyberdud3/cyberdud3"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberdud3&repo=cyberdud3&theme=tokyonight" /></a>
         <a href = "https://github.com/CYBERDUD3/resume"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberdud3&repo=resume&theme=tokyonight" /></a>
@@ -50,10 +63,7 @@ I see programming as art. Code is expression. It needs to have clarity, purpose,
 </details>
 
 <details> 
-    <summary>🤖 <b>My programming stats</b>: </summary>
+    <summary>🤖 <b>My Programming Stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
