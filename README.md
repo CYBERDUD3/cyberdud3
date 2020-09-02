@@ -1,6 +1,5 @@
-<h1 align='center'>
-    Hi there 👋 I'm [Abhijith!](https://cyberdud3.github.io/resume/) 👨‍💻
-</h1>
+# Hi there 👋 I'm [Abhijith!](https://cyberdud3.github.io/resume/) 👨‍💻
+
 
 <p align='center'>
   Adroit Python wizard from Thiruvananthapuram, India.
