@@ -16,13 +16,16 @@ I see programming as art. Code is expression. It needs to have clarity, purpose,
 - 💬 Ask me about anything [here](https://github.com/cyberdud3/cyberdud3/issues)
 
 <details open>
-<summary>🤝 <b>I'm Proficient with</b></summary>
+<summary>🤝 <b>My Skillset</b></summary>
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">]
-[<img src="">]
-[<img src="">]
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white>
 
 </p>
 
