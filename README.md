@@ -53,4 +53,7 @@ I see programming as art. Code is expression. It needs to have clarity, purpose,
     <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
