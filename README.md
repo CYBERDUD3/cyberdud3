@@ -1,4 +1,4 @@
-## Hi there, I'm [Abhijith!](https://github.com/cyberdud3/resume/) 👋
+## Hi there, I'm [Abhijith!](https://cyberdud3.github.io/resume/) 👋
 
 Adroit Python wizard with an innate love of writing code to solve complex issues, I've been programming since the age of 14. I taught myself to code through reading books and managed to develop a scientific calculator using C++ at the age of 15. My love for innovative and creative client applications is what allowed me to become a passionate web developer. In my role as a programmer, I not only rely on coding competencies, but also on my significant leadership skills.
 
@@ -10,5 +10,5 @@ I see programming as art. Code is expression. It needs to have clarity, purpose,
 - 🤝 Open for collaborations in data science and python/django projects.
 - 😊 Willing to contribute in opensource development projects.
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/cyberdud3/) 
-- 🌐 Visit my [porfolio website](https://github.com/cyberdud3/resume/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://cyberdud3.github.io/resume/) for complete background and contact.
 - 💬 Ask me about anything [here](https://github.com/cyberdud3/cyberdud3/issues)
