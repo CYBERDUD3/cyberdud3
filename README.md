@@ -48,3 +48,9 @@ I see programming as art. Code is expression. It needs to have clarity, purpose,
         <a href = "https://github.com/CYBERDUD3/resume"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberdud3&repo=resume&theme=tokyonight" /></a>
         </p>
 </details>
+
+<details> 
+    <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
