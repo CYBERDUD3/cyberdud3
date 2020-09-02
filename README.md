@@ -1,5 +1,7 @@
-# Hi there 👋 I'm [Abhijith!](https://cyberdud3.github.io/resume/) 👨‍💻
+<center>
 
+# Hi there 👋 I'm [Abhijith!](https://cyberdud3.github.io/resume/) 👨‍💻
+</center>
 
 <p align='center'>
   Adroit Python wizard from Thiruvananthapuram, India.
