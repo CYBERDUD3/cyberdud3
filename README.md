@@ -31,3 +31,15 @@ I see programming as art. Code is expression. It needs to have clarity, purpose,
 </p>
 
 </details>
+
+<details open>
+    <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cyberdud3&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cyberdud3&theme=tokyonight">
+</p>
+
+</details>
