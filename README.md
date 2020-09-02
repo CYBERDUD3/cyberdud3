@@ -1,11 +1,6 @@
-<center>
-
 # Hi there 👋 I'm [Abhijith!](https://cyberdud3.github.io/resume/) 👨‍💻
-</center>
 
-<p align='center'>
-  Adroit Python wizard from Thiruvananthapuram, India.
-</p>
+### Adroit Python wizard from Thiruvananthapuram, India.
 
 With an innate love of writing code to solve complex issues, I've been programming since the age of 14. I taught myself to code through reading books and managed to develop a scientific calculator using C++ at the age of 15. My love for innovative and creative client applications is what allowed me to become a passionate web developer. In my role as a programmer, I not only rely on coding competencies, but also on my significant leadership skills.
 
