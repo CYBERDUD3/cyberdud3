@@ -39,7 +39,7 @@ I see programming as art. Code is expression. It needs to have clarity, purpose,
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=cyberdud3&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cyberdud3&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cyberdud3&hide=css,html,powershell&theme=dark">
 </p>
 
 </details>
