@@ -62,6 +62,7 @@ I see programming as art. Code is expression. It needs to have clarity, purpose,
         <p align = "center">
         <a href = "https://github.com/cyberdud3/cyberdud3"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberdud3&repo=cyberdud3&theme=tokyonight" /></a>
         <a href = "https://github.com/CYBERDUD3/resume"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberdud3&repo=resume&theme=tokyonight" /></a>
+         <a href = "https://github.com/cyberdud3/R-Programming-A-Z-R-For-Data-Science-With-Real-Exercises"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberdud3&repo=resume&theme=tokyonight" /></a>
         </p>
 </details>
 
